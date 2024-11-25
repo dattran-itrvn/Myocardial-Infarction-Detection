@@ -1,2 +1,2 @@
 # Myocardial-Infarction-Detection
-Myocardial Infarction Detection and Localization From Single Lead ECG Features Using Machine Learning Approach
+Myocardial Infarction Detection From 12 Leads ECG Features Using Machine Learning Approach
